@@ -17,3 +17,6 @@ h1#Title {background-image: url('https://cdn.pixabay.com/photo/2021/01/10/08/44/
          }
 body {background-color: FloralWhite;
      }
+hr {
+          background-color:black;
+}
