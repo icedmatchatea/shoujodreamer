@@ -20,3 +20,9 @@ body {background-color: FloralWhite;
 hr {
           background-color:black;
 }
+
+li {
+           border: 1px solid red;
+          margin: 0px auto;
+          padding: 0px auto;
+}
